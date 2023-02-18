@@ -2,7 +2,7 @@
 <h3 align="center">I'm your average 15 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Zed's Rewards<br>👯 I’m looking to collaborate with experienced python developers.<br>🤝 I’m looking for help with python.<br>🌱 I’m currently learning Lua<br>💬 Ask me about my projects.<br>📫 Reach me on mrshadowdev@mail.lv<br>👨‍💻 All of my projects are available at my profile!<br>⚡ Fun fact: I want to become famous and rich.
+🔭 I’m currently working on Soul Taker<br>👯 I’m looking to collaborate with experienced python developers.<br>🤝 I’m looking for help with python.<br>🌱 I’m currently learning Lua<br>💬 Ask me about my projects.<br>📫 Reach me on mrshadowdev@mail.lv<br>👨‍💻 All of my projects are available at my profile!<br>⚡ Fun fact: I want to become famous and rich.
 
 
 ## 🌐 Socials:
