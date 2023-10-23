@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Pentester-%23111111.svg?&style=for-the-badge&logo=Kali-Linux&logoColor=white">
     <img src="https://img.shields.io/badge/Python-%23111111.svg?&style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-%23111111.svg?&style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/React-%23111111.svg?&style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 <!-- Introduction -->
@@ -17,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/MrShadowDev/MrShadowDev/main/introduction.gif" alt="Introduction gif">
 </p>
 <p align="center">
-    Hey there, I'm <b>MrShadowDev</b> - a passionate hacker and security enthusiast. I love learning new technologies and tools that help me with my ethical hacking journey. My primary focus is on penetration testing, vulnerability assessment, and web application security.
+    Hey there, I'm <b>MrSh4dow</b> - a passionate hacker and security enthusiast. I love learning new technologies and tools that help me with my ethical hacking journey. My primary focus is on penetration testing, vulnerability assessment, and web application security.
 </p>
 
 <!-- GitHub Stats -->
@@ -48,7 +47,7 @@
 <p align="center">
     If you find my work valuable, you can show your support by buying me a coffee:
     <br>
-    <a href="https://ko-fi.com/devmrshadow" target="_blank">
+    <a href="https://ko-fi.com/MrSh4dow" target="_blank">
         <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=for-the-badge&logo=ko-fi&logoColor=F16061" alt="Buy me a coffee">
     </a>
 </p>
@@ -56,7 +55,6 @@
 
 <!-- Discord Presence -->
 <p align="center">
-    <img src="https://lanyard-profile-readme.vercel.app/api/734380380232220785?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=10px">
     <br>
     <strong>Current Discord Activity:</strong>
     <br>
