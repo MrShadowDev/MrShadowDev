@@ -42,6 +42,9 @@
     <a href="https://www.instagram.com/dev_mrshadow/"><img src="https://img.shields.io/badge/Instagram-dev__mrshadow-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://twitter.com/MrShadowDev"><img src="https://img.shields.io/badge/Twitter-MrShadowDev-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
+<p align="center">
+    <img src="https://discord.c99.nl/widget/theme-3/734380380232220785.png" alt="MrShadowDev banner">
+</p>
 
 <!-- Donations -->
 <p align="center">
