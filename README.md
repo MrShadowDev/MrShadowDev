@@ -39,7 +39,7 @@
 <p align="center">
     <a href="mailto:mrshadowdev@mail.lv"><img src="https://img.shields.io/badge/Email-mrshadowdev%40mail.lv-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://xyl.lol/mrshadowdev"><img src="https://img.shields.io/badge/Website-xyl.lol%2Fmrshadowdev-000000?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-    <a href="https://www.instagram.com/dev_mrshadow/"><img src="https://img.shields.io/badge/Instagram-dev__mrshadow-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.instagram.com/dev_mrshadow/"><img src="https://img.shields.io/badge/Instagram-itz.mohaxx-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://twitter.com/MrShadowDev"><img src="https://img.shields.io/badge/Twitter-MrShadowDev-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 <p align="center">
