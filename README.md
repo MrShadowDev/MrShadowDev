@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/MrShadowDev/MrShadowDev/main/introduction.gif" alt="Introduction gif">
 </p>
 <p align="center">
-    Hey there, I'm <b>MrSh4dow</b> - a passionate hacker and security enthusiast. I love learning new technologies and tools that help me with my ethical hacking journey. My primary focus is on penetration testing, vulnerability assessment, and web application security.
+    Hey there, I'm <b>MrSh4dow</b> - a passionate hacker and security enthusiast. I love learning new technologies and tools that help me with my ethical hacking journey.
 </p>
 
 <!-- GitHub Stats -->
@@ -41,19 +41,6 @@
     <a href="https://xyl.lol/mrshadowdev"><img src="https://img.shields.io/badge/Website-xyl.lol%2Fmrshadowdev-000000?style=for-the-badge&logo=wordpress&logoColor=white"></a>
     <a href="https://www.instagram.com/dev_mrshadow/"><img src="https://img.shields.io/badge/Instagram-itz.mohaxx-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://twitter.com/MrShadowDev"><img src="https://img.shields.io/badge/Twitter-MrShadowDev-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-<p align="center">
-    <img src="https://discord.c99.nl/widget/theme-3/734380380232220785.png" alt="MrShadowDev banner">
-</p>
-
-<!-- Donations -->
-<p align="center">
-    If you find my work valuable, you can show your support by buying me a coffee:
-    <br>
-    <a href="https://ko-fi.com/MrSh4dow" target="_blank">
-        <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=for-the-badge&logo=ko-fi&logoColor=F16061" alt="Buy me a coffee">
-    </a>
-</p>
 
 
 <!-- Discord Presence -->
