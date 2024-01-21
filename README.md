@@ -21,8 +21,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MrShadowDev&theme=radical&show_icons=true&count_private=true">
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MrShadowDev&theme=radical&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=MrShadowDev&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShadowDev&theme=radical&layout=compact" alt="Top Languages">
 </p>
 
 <!-- Random Quote -->
@@ -37,7 +37,8 @@
 
 <!-- Contact Information -->
 <p align="center">
-    <a href="mailto:mrshadowdev@mail.lv"><img src="https://img.shields.io/badge/Email-mrshadowdev%40mail.lv-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://xyl.lol/mrshadowdev"><img src="https://img.shields.io/badge/Website-xyl.lol%2Fmrshadowdev-000000?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-    <a href="https://www.instagram.com/dev_mrshadow/"><img src="https://img.shields.io/badge/Instagram-itz.mohaxx-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://twitter.com/MrShadowDev"><img src="https://img.shields.io/badge/Twitter-MrShadowDev-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="mailto:mrshadowdev@mail.lv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-mrshadowdev%40mail.lv-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://xyl.lol/mrshadowdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-xyl.lol%2Fmrshadowdev-000000?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website"></a>
+    <a href="https://www.instagram.com/dev_mrshadow/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-itz.mohaxx-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://twitter.com/MrShadowDev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-MrShadowDev-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
