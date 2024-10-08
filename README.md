@@ -42,13 +42,6 @@ class Attributes(MrShadowDev):
     <img src="https://profile-counter.glitch.me/{MrShadowDev}/count.svg" alt="Visitor count">
 </p>
 
-<!-- Badges -->
-<p align="center">
-    <img src="https://img.shields.io/badge/Hacker-%23111111.svg?&style=for-the-badge&logo=hackerone&logoColor=white">
-    <img src="https://img.shields.io/badge/Pentester-%23111111.svg?&style=for-the-badge&logo=Kali-Linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-%23111111.svg?&style=for-the-badge&logo=python&logoColor=white">
-</p>
-
 <!-- Introduction -->
 <p align="center">
     <img src="https://raw.githubusercontent.com/MrShadowDev/MrShadowDev/main/introduction.gif" alt="Introduction gif">
@@ -57,7 +50,6 @@ class Attributes(MrShadowDev):
 <!-- Contact Information -->
 <p align="center">
     <a href="mailto:mrsh4dow@evilmail.to" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-mrshadowdev%40evilmail.to-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://twitter.com/MrShadowDev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-MrShadowDev-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 * If you see this have a nice day :p
