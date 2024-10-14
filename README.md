@@ -1,9 +1,8 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+i'm+MrSh4dow;A+little+Python+programmer"></a></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+MrSh4dow;A+little+Python+programmer"></a></p>
 <!-- Header -->
 <p align="center">
     <img src="https://raw.githubusercontent.com/MrShadowDev/MrShadowDev/main/banner.gif" alt="MrShadowDev banner">
 </p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=MrShadowDev&theme=discord"</a></p>
 
 -----
 
@@ -20,8 +19,8 @@ class Attributes(MrShadowDev):
 
     @staticmethod
     def coding() -> tuple:
-        learning = "python" 
-        specialities = 'automation' 'malware'
+        learning = "python" "node" "javascript"
+        specialities = 'automation' 'saas'
         environment = 'vscode' 'notepad'
         return learning, specialities, environment
  ```
