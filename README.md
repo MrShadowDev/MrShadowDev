@@ -19,7 +19,7 @@ class Attributes(MrShadowDev):
 
     @staticmethod
     def coding() -> tuple:
-        learning = "python" "node" "javascript"
+        learning = "python"
         specialities = 'automation' 'saas'
         environment = 'vscode' 'notepad'
         return learning, specialities, environment
