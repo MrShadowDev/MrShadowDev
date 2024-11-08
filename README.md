@@ -20,37 +20,16 @@ class Attributes(MrShadowDev):
     @staticmethod
     def coding() -> tuple:
         learning = "python"
-        specialities = 'automation' 'saas'
+        specialities = 'automation' 'tools'
         environment = 'vscode' 'notepad'
         return learning, specialities, environment
- ```
-
-<p align="center">⭐My Stats</p>
-
+ ``` 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=MrShadowDev&theme=shadow-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D"/>
-
-<p align="center">
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrShadowDev&layout=compact&langs_count=8&theme=nightowl&locale=en"/>
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrShadowDev&theme=modern-lilac"/>
-
------
-<!-- Visitor Counter -->
-<p align="center">
-    <img src="https://profile-counter.glitch.me/{MrShadowDev}/count.svg" alt="Visitor count">
+  <a href='mailto:shadow@alo.ne' target="_blank"><img alt='Email' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=FF0000&labelColor=black&color=black'/></a>
+  <a href='https://t.me/MrSh4dow' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-100000?style=flat&logo=Telegram&logoColor=FF0000&labelColor=black&color=black'/></a><br><br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMrShadowDev%2FMrShadowDev&count_bg=%23000000&title_bg=%23F60202&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a><br><br>
+  <a href='https://python.org' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=FF0000&labelColor=black&color=black'/></a>
+  <a href='https://selenium.dev' target="_blank"><img alt='Selenium' src='https://img.shields.io/badge/Selenium-100000?style=flat&logo=selenium&logoColor=FF0000&labelColor=black&color=black'/></a>
+  <a href='https://en.wikipedia.org/wiki/HTML' target="_blank"><img alt='HTML' src='https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=FF8000&labelColor=black&color=black'/></a><br><br>
+  <a href="#GithubStat"><img src="https://github-stats-alpha.vercel.app/api?username=MrShadowDev&cc=000&tc=fff&ic=FF0000&bc=000" align="center"></a><br><br>
 </p>
-
-<!-- Introduction -->
-<p align="center">
-    <img src="https://raw.githubusercontent.com/MrShadowDev/MrShadowDev/main/introduction.gif" alt="Introduction gif">
-</p>
-
-<!-- Contact Information -->
-<p align="center">
-    <a href="mailto:mrsh4dow@evilmail.to" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-mrshadowdev%40evilmail.to-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-* If you see this have a nice day :p
-
-![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
